@@ -24,6 +24,7 @@ import models.maskrcnn
 from utils.utils import cv2_imshow, inference_config_loder, train_config_loader, check_inf_quality
 
 # check_inf_quality()
+# hi this is a change form mac
 
 
 
